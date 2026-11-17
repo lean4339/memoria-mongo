@@ -1,0 +1,3 @@
+interface:
+  display_name: "Memoria MongoDB"
+  short_description: "Guarda y recupera contexto persistente en MongoDB"
